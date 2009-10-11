@@ -9,3 +9,4 @@ end
 dir = File.dirname(__FILE__) / :wrench
 
 require dir / :core_ext / :io
+require dir / :core_ext / :object
