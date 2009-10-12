@@ -15,3 +15,4 @@ require dir / :core_ext / :io
 require dir / :core_ext / :object
 
 require dir / :pipe / :pipe
+require dir / :pipe / :pull_pipe
