@@ -17,3 +17,5 @@ require dir / :core_ext / :object
 require dir / :pipe / :pipe
 require dir / :pipe / :pull_pipe
 require dir / :pipe / :push_pipe
+
+require dir / :command / :command
